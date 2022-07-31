@@ -21,3 +21,4 @@ licz2 = [y**3 for y in licz1]
 print(licz1)
 print(licz2)
 print("'Hispańska inkwizycja' to najlepszy skecz Monty Pythona")
+print("test1")

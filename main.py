@@ -20,4 +20,4 @@ licz1 = [x for x in range(0,100) if not x % 5]
 licz2 = [y**3 for y in licz1]
 print(licz1)
 print(licz2)
-
+print("'Hispańska inkwizycja' to najlepszy skecz Monty Pythona")
